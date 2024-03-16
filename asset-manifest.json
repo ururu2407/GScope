@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GScope/static/css/main.63ffa784.css",
+    "main.js": "/GScope/static/js/main.7948f33d.js",
+    "static/media/shat.png": "/GScope/static/media/shat.014f13bbfd5da5369700.png",
+    "static/media/genshin.jpg": "/GScope/static/media/genshin.a7226cdab2ac7cb12e80.jpg",
+    "static/media/dota2.png": "/GScope/static/media/dota2.9b9e1c499fc3970368b8.png",
+    "static/media/mine.jpg": "/GScope/static/media/mine.7a95b055d55cd4588835.jpg",
+    "static/media/Second_Closed_Beta_Wallpaper (1).jpg": "/GScope/static/media/Second_Closed_Beta_Wallpaper (1).c28ca169785244e99279.jpg",
+    "static/media/cs.png": "/GScope/static/media/cs.b8a1273e6cd3323ea52b.png",
+    "static/media/bg-texture.png": "/GScope/static/media/bg-texture.ce2d720607d40ce71223.png",
+    "static/media/MacPawFixelText-Bold.woff2": "/GScope/static/media/MacPawFixelText-Bold.6490bc31f1ead8b86987.woff2",
+    "static/media/MacPawFixelText-SemiBold.woff2": "/GScope/static/media/MacPawFixelText-SemiBold.0c3500d6ba0d0daca648.woff2",
+    "static/media/MacPawFixelText-Medium.woff2": "/GScope/static/media/MacPawFixelText-Medium.b3687c225113a7c9dd25.woff2",
+    "static/media/MacPawFixelText-Regular.woff2": "/GScope/static/media/MacPawFixelText-Regular.615b696311567a1434b9.woff2",
+    "index.html": "/GScope/index.html",
+    "main.63ffa784.css.map": "/GScope/static/css/main.63ffa784.css.map",
+    "main.7948f33d.js.map": "/GScope/static/js/main.7948f33d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ffa784.css",
+    "static/js/main.7948f33d.js"
+  ]
+}
